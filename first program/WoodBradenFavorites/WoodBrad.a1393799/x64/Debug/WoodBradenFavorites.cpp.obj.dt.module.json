@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "WoodBrad.a1393799\\x64\\Debug\\WoodBradenFavorites.obj",
+            "outputs": [
+                "WoodBrad.a1393799\\x64\\Debug\\WoodBradenFavorites.cpp.obj.dt.module.json",
+                "WoodBrad.a1393799\\x64\\Debug\\WoodBradenFavorites.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

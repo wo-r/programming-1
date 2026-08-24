@@ -1,0 +1,5 @@
+﻿  WoodBradenFavorites.cpp
+C:\Users\Admin\Documents\GitHub\programming-1\first program\WoodBradenFavorites\WoodBradenFavorites.cpp(30,5): error C2561: 'main': function must return a value
+      C:\Users\Admin\Documents\GitHub\programming-1\first program\WoodBradenFavorites\WoodBradenFavorites.cpp(13,5):
+      see declaration of 'main'
+  

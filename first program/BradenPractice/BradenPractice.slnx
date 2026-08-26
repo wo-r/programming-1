@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="BradenPractice.vcxproj" Id="95e01f23-5503-4180-971c-55ed704ab37f" />
+</Solution>

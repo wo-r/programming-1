@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "BradenWages\\x64\\Debug\\BradenWages.obj",
+            "outputs": [
+                "BradenWages\\x64\\Debug\\BradenWages.cpp.obj.dt.module.json",
+                "BradenWages\\x64\\Debug\\BradenWages.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

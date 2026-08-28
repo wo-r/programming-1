@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "WoodBTemplate\\x64\\Debug\\WoodBTemplate.obj",
+            "outputs": [
+                "WoodBTemplate\\x64\\Debug\\WoodBTemplate.cpp.obj.dt.module.json",
+                "WoodBTemplate\\x64\\Debug\\WoodBTemplate.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -30,5 +30,5 @@ int main()
     Can use newline abbriviations (\n) or endl
     ex: cout << "test\n"; or cout << "test" << endl;
 
-    getline(cin, value) & cin.ignore() allow spaced text like "Text With Spaces" to be included in full.
+    getline(cin, value) & cin.ignore() allow spaced text like "Text With Spaces" to be included in full.    
 */

@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "WoodBTriangle\\x64\\Debug\\WoodBTriangle.obj",
+            "outputs": [
+                "WoodBTriangle\\x64\\Debug\\WoodBTriangle.cpp.obj.dt.module.json",
+                "WoodBTriangle\\x64\\Debug\\WoodBTriangle.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

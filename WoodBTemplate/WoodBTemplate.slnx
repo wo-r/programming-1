@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="WoodBTemplate.vcxproj" />
+  <Project Path="WoodBTemplate.vcxproj" Id="28db110b-57e2-411c-babf-f0ab17a4c87a" />
 </Solution>

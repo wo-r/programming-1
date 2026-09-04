@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "WoodBCINErrors\\x64\\Debug\\WoodBCINErrors.obj",
+            "outputs": [
+                "WoodBCINErrors\\x64\\Debug\\WoodBCINErrors.cpp.obj.dt.module.json",
+                "WoodBCINErrors\\x64\\Debug\\WoodBCINErrors.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

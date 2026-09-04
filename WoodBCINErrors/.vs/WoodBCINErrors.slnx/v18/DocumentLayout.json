@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\GitHub\\programming-1\\WoodBCINErrors\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED2269F0-3B14-46A4-BEED-22C093D08FC1}|WoodBCINErrors.vcxproj|C:\\Users\\Admin\\Documents\\GitHub\\programming-1\\WoodBCINErrors\\WoodBCINErrors.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED2269F0-3B14-46A4-BEED-22C093D08FC1}|WoodBCINErrors.vcxproj|solutionrelative:WoodBCINErrors.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WoodBCINErrors.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\programming-1\\WoodBCINErrors\\WoodBCINErrors.cpp",
+              "RelativeDocumentMoniker": "WoodBCINErrors.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\programming-1\\WoodBCINErrors\\WoodBCINErrors.cpp",
+              "RelativeToolTip": "WoodBCINErrors.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwA4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-02T18:26:30.04Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
